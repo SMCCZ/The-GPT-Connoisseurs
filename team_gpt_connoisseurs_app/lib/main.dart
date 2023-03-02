@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:team_gpt_connoisseurs_app/views/home_page.dart';
+import 'package:team_gpt_connoisseurs_app/views/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
